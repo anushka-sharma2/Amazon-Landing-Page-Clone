@@ -1,11 +1,10 @@
-# Amazon-Landing-Page-Clone
-Amazon Landing Page Clone
+# Amazon Landing Page Clone
 
 This project is a basic front-end clone of the Amazon landing page built using HTML and CSS. It replicates the layout and structure of the Amazon website's header, navigation bar, product showcase, and footer.
 
 <b>Features</b>
 
-Responsive Navbar:
+<b>Responsive Navbar:</b>
 
 Logo section
 
@@ -17,19 +16,19 @@ Sign-in option
 
 Cart icon
 
-Secondary Navigation Menu:
+<b>Secondary Navigation Menu:</b>
 
 Categories like Fresh, MX Player, Best Sellers, Mobiles, and more
 
-Hero Section:
+<b>Hero Section:</b>
 
 Large banner image with a link to Amazon India
 
-Product Showcase:
+<b>Product Showcase:</b>
 
 Grid layout displaying categories like Home Appliances, Electronics, Furniture, Clothing, and more
 
-Footer:
+<b>Footer:</b>
 
 Multiple panels with links for user convenience (Get to Know Us, Connect with Us, Make Money with Us, Let Us Help You)
 
